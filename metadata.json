@@ -1,0 +1,5 @@
+{
+  "name": "AKD Data Nexus",
+  "description": "A specialized ETL middleware interface for bridging local file systems with MotherDuck Cloud Data Warehouse, enforcing Bronze Layer Integrity.",
+  "requestFramePermissions": []
+}
